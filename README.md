@@ -47,6 +47,7 @@
             <strong>Start the Spring Boot Application:</strong><br>
             Within your IDE, locate the main class of the Spring Boot application and run it.
             <code>/src/main/java/com/example/citybikeprojectApplication.java</code>
+            <p>if there are problems with the the application start, try running  <code>maven install</code> before running the application</p>
         </li>
     </ol>
 
