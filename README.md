@@ -46,6 +46,7 @@
         <li>
             <strong>Start the Spring Boot Application:</strong><br>
             Within your IDE, locate the main class of the Spring Boot application and run it.
+            <code>/src/main/java/com/example/citybikeprojectApplication.java</code>
         </li>
     </ol>
 
@@ -53,6 +54,7 @@
     <ol>
         <li>
             <strong>Navigate to the Frontend Directory</strong><br>
+            <code>/citybikefront</code>
     
   </li>
       <li>
